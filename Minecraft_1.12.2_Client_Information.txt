@@ -1,0 +1,60 @@
+
+Minecraft server 1.12.2
+
+Mod download link:
+https://github.com/pliskin683/Minecraft_1.12.2_Client
+
+IP: ask Pliskin683 for IP address
+
+If using crack version, please inform Pliskin683
+
+Installed Mod:
+
+Major mod
+AbyssalCraft - Cthulhu theme
+Blood Magic - Blood ritual theme
+Botania - Plant based magic, dependent by other mod
+Thermal Expansion - Thermal theme tech mod
+Rogue like Dungeons - Random generated stracture with dungeons and loot
+Technomancy - modpack for Blood Magic and Thermal tech
+
+Equipment mod
+SlashBlade - Katana theme mod, new weapon
+IronBackpacks - usable backpack
+
+Constraction/furniture Mod
+Chisel - Constraction block mod
+MrCrayfish's Furniture - furniture mod
+
+Gameplay mod
+Gravestone - When player die, player's item will kept in a chest under a generated tomb where player die
+Waystone - teleport mod, player needs to craft the necessary item to use. It has cool down time
+
+Tool mod
+Journeymap - map mod, available in both minimap and full size map with configuration
+Neat - mob will have health bar and information on top of their model
+Hwyla - pointing at an item within interactable range will display information of the block/item
+Just Enough Item - An item library mod for player to check recipe only. Cheat function disabled
+LagGoogles - Client side lag detector tool. If player feels sudden heavy lag within an area, please use this tool and report to Pliskin683
+
+Admin/Creative account mod
+WorldEdit - world modification mod
+Custom NPC - ability to place a functional NPC as Shop or event trigger tools etc
+
+For recipes of respective mod, please use JEI mod (JEI menu will appear on the right of inventory menu)
+
+Wiki/Guide link for respective mod:
+AbyssalCraft
+https://abyssalcraft.fandom.com/wiki/Getting_Started
+
+Blood Magic
+https://ftb.gamepedia.com/Getting_Started_(Blood_Magic)
+https://ftbwiki.org/Blood_Magic
+
+Thermal Expansion
+https://ftb.gamepedia.com/Getting_Started_(Thermal_Expansion_5)
+https://teamcofh.com/docs/1.12/thermal-expansion/
+
+Botania
+https://ftb.gamepedia.com/Getting_Started_(Botania)
+https://ftbwiki.org/Botania
